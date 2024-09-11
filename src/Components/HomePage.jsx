@@ -2,7 +2,7 @@ import React from 'react'
 import client from '../Contenful/config.js'
 import { useState, useEffect } from 'react'
 import { NavLink } from 'react-router-dom'
-import { Query } from 'appwrite'
+
 
 export default function HomePage() {
   const  perpage=4
